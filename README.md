@@ -5,6 +5,7 @@ A chat app for Android written in Kotlin using MVVM.
 # Features
 Authentication:
 Email and password
+
 Google Auth
 Reset Password
 Sending and Receiving messages
