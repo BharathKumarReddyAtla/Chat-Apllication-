@@ -13,13 +13,13 @@ Sending and Receiving messages
 
 User can update their profile by adding profile pictures, nicknames, etc.
 
-Permissions
+# Permissions
 
 Internet
 
 Read External Storage
 
-Dependencies
+# Dependencies
 
 Kotlin
 
@@ -44,5 +44,5 @@ Latency is higher than that of chat apps built using websockets.
 
 Since, cloud functions are not available in Spark Plan of Firebase, therefore for receiving messages, app has to check constantly for updates.
 
-#Compatibility
+# Compatibility
 Android 9 (api level 28) and above.
